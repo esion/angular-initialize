@@ -1,0 +1,33 @@
+{
+  "name": "angular-initialize",
+  "version": "1.0.0",
+  "homepage": "https://github.com/esion/ng-initialize",
+  "authors": [
+    "David Epely <esion99@gmail.com>"
+  ],
+  "description": "Wait for a set of promises before starting an angular application",
+  "main": "dist/angular-initialize.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "angular",
+    "initialize",
+    "bootstrap",
+    "promise"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.15"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.3.15"
+  }
+}
