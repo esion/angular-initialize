@@ -18,10 +18,12 @@ Include in your project
 <script src="bower_components/angular-initialize/dist/angular-initialize.js" />
 ~~~
 
+_**note**: sources are written in es6, you can import it directly with browserify + babel_
+
 Configuration
 
 ~~~javascript
-angular.module('myApp', ['angular-initialize']);
+angular.module('myApp', ['ngInitialize']);
 ~~~
 
 ~~~html
