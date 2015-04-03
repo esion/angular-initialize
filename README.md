@@ -2,7 +2,7 @@
 
 Provides a simple solution in order to bootstrap an angular app without [manually][1] [start it][2]. This way it is possible to synchronize promises in run blocks.
 
-[![Build Status](https://travis-ci.org/esion/ng-initialize.svg)](https://travis-ci.org/esion/ng-initialize)
+[![Build Status](https://travis-ci.org/esion/angular-initialize.svg?branch=master)](https://travis-ci.org/esion/angular-initialize)
 
 ## Installation
 
