@@ -6,7 +6,7 @@ describe('ngInitialize', function() {
         $q,
         $rootScope;
 
-    beforeEach(module('ng-initialize'));
+    beforeEach(module('ngInitialize'));
     beforeEach(inject(function(_$initialize_, _$q_, _$rootScope_){
         $initialize = _$initialize_;
         $q = _$q_;

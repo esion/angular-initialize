@@ -7,7 +7,7 @@ describe('ngInitializeDirective', function() {
         $compile,
         $rootScope;
 
-    beforeEach(module('ng-initialize'));
+    beforeEach(module('ngInitialize'));
     beforeEach(inject(function(_$compile_, _$rootScope_, _$initialize_, _$q_){
         $compile = _$compile_;
         $rootScope = _$rootScope_;
